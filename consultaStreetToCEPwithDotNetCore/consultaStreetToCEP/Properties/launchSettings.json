@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "consultaStreetToCEP": {
+      "commandName": "Executable"
+    }
+  }
+}

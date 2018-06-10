@@ -1,0 +1,11 @@
+C:\Repos\projectMochila\consultaStreetToCEP\consultaStreetToCEP\bin\Debug\netcoreapp2.0\consultaStreetToCEP.deps.json
+C:\Repos\projectMochila\consultaStreetToCEP\consultaStreetToCEP\bin\Debug\netcoreapp2.0\consultaStreetToCEP.runtimeconfig.json
+C:\Repos\projectMochila\consultaStreetToCEP\consultaStreetToCEP\bin\Debug\netcoreapp2.0\consultaStreetToCEP.runtimeconfig.dev.json
+C:\Repos\projectMochila\consultaStreetToCEP\consultaStreetToCEP\bin\Debug\netcoreapp2.0\consultaStreetToCEP.dll
+C:\Repos\projectMochila\consultaStreetToCEP\consultaStreetToCEP\bin\Debug\netcoreapp2.0\consultaStreetToCEP.pdb
+C:\Repos\projectMochila\consultaStreetToCEP\consultaStreetToCEP\obj\Debug\netcoreapp2.0\consultaStreetToCEP.csproj.CoreCompileInputs.cache
+C:\Repos\projectMochila\consultaStreetToCEP\consultaStreetToCEP\obj\Debug\netcoreapp2.0\consultaStreetToCEP.AssemblyInfoInputs.cache
+C:\Repos\projectMochila\consultaStreetToCEP\consultaStreetToCEP\obj\Debug\netcoreapp2.0\consultaStreetToCEP.AssemblyInfo.cs
+C:\Repos\projectMochila\consultaStreetToCEP\consultaStreetToCEP\obj\Debug\netcoreapp2.0\consultaStreetToCEP.dll
+C:\Repos\projectMochila\consultaStreetToCEP\consultaStreetToCEP\obj\Debug\netcoreapp2.0\consultaStreetToCEP.pdb
+C:\Repos\projectMochila\consultaStreetToCEP\consultaStreetToCEP\obj\Debug\netcoreapp2.0\consultaStreetToCEP.csprojResolveAssemblyReference.cache
