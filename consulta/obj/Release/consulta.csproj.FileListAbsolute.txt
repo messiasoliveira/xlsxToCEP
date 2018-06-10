@@ -1,0 +1,17 @@
+C:\Users\messi\Desktop\consulta\consulta\bin\Release\consulta.exe.config
+C:\Users\messi\Desktop\consulta\consulta\bin\Release\consulta.exe.manifest
+C:\Users\messi\Desktop\consulta\consulta\bin\Release\consulta.application
+C:\Users\messi\Desktop\consulta\consulta\bin\Release\consulta.exe
+C:\Users\messi\Desktop\consulta\consulta\bin\Release\consulta.pdb
+C:\Users\messi\Desktop\consulta\consulta\bin\Release\EPPlus.dll
+C:\Users\messi\Desktop\consulta\consulta\bin\Release\Newtonsoft.Json.dll
+C:\Users\messi\Desktop\consulta\consulta\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\messi\Desktop\consulta\consulta\bin\Release\System.IO.Packaging.dll
+C:\Users\messi\Desktop\consulta\consulta\bin\Release\EPPlus.xml
+C:\Users\messi\Desktop\consulta\consulta\bin\Release\Newtonsoft.Json.xml
+C:\Users\messi\Desktop\consulta\consulta\obj\Release\consulta.csproj.CoreCompileInputs.cache
+C:\Users\messi\Desktop\consulta\consulta\obj\Release\consulta.exe.manifest
+C:\Users\messi\Desktop\consulta\consulta\obj\Release\consulta.application
+C:\Users\messi\Desktop\consulta\consulta\obj\Release\consulta.csproj.CopyComplete
+C:\Users\messi\Desktop\consulta\consulta\obj\Release\consulta.exe
+C:\Users\messi\Desktop\consulta\consulta\obj\Release\consulta.pdb
